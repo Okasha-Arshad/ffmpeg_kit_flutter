@@ -23,7 +23,7 @@ flutter:
 
 dependencies:
   ffmpeg_kit_flutter_platform_interface: 
-    git: https://github.com/kumsumit/ffmpeg_kit_flutter_platform_interface.git
+    git: https://github.com/Okasha-Arshad/ffmpeg_kit_flutter_platform_interface.git
   flutter:
     sdk: flutter
 
